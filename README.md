@@ -2,6 +2,6 @@
 Simple Hand Tracking module and Controlling Volume through gesture</br>
 
 Required Modules:</br>
---> pip install opencv-python</br>
---> pip install mediapipe</br>
+--> pip install opencv-python==4.5.5.64</br>
+--> pip install mediapipe==0.8.7</br>
 --> pip install pycaw</br>
